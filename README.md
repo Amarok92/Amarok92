@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">hola 👋me llamo Andrés Tovar</h1>
 <h3 align="center">soy un desarrollador autodidacta</h3>
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/andrés-tovar-508525245](linkedin.com/in/amarok92)
+- 👨‍💻 All of my projects are available at [linkedin.com/in/amarok92)
 
 - 💬 Ask me about **HTML, CSS, JS, PYTHON**
 

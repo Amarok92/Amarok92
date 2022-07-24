@@ -1,4 +1,4 @@
-[![fondo.png](https://i.postimg.cc/wxRCHWjs/fondo.png)](https://postimg.cc/hhgy11xS)
+[![fondo.png](https://i.postimg.cc/y8DYbH95/fondo.png)](https://postimg.cc/DSKTSRxd)
 <!---
 Amarok92/Amarok92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
